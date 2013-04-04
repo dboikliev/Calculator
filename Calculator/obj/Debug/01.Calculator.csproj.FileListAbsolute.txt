@@ -1,0 +1,34 @@
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\bin\Debug\01.Calculator.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\bin\Debug\01.Calculator.exe
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\bin\Debug\01.Calculator.pdb
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\Views\Calculator.baml
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\Views\Calculator.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\App.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator_MarkupCompile.cache
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.g.resources
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\_01.Calculator.Properties.Resources.resources
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.csproj.GenerateResource.Cache
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.exe
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.pdb
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\SimpleCalculatorWindow.baml
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\SimpleCalculatorWindow.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator_MarkupCompile.lref
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\bin\Debug\01.Calculator.exe.config
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.exe
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.pdb
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\bin\Debug\01.Calculator.exe
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\bin\Debug\01.Calculator.pdb
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\SimpleCalculatorWindow.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\Views\Calculator.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\App.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator_MarkupCompile.cache
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator_MarkupCompile.lref
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\SimpleCalculatorWindow.baml
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\Views\Calculator.baml
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.g.resources
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\_01.Calculator.Properties.Resources.resources
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Debug\01.Calculator.csproj.GenerateResource.Cache

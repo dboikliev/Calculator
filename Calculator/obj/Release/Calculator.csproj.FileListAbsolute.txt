@@ -1,0 +1,6 @@
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Release\SimpleCalculatorWindow.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Release\Views\Calculator.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Release\App.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Telerik Academy 3rd Module\Software Engineering Basics\XAML Front end\09. MVVM\01.Calculator\obj\Release\Calculator_MarkupCompile.lref

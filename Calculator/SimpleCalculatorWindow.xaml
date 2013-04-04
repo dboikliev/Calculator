@@ -1,0 +1,13 @@
+﻿<Window x:Class="Calculator.SimpleCalculatorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:Calculator.Views"
+        Title="SharpCalc" 
+        Height="350" 
+        Width="350"
+        MinHeight="350"
+        MinWidth="350"
+        MaxHeight="350"
+        MaxWidth="350">
+    <controls:CalculatorView/>
+</Window>
